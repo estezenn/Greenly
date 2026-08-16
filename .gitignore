@@ -1,0 +1,8 @@
+node_modules/
+chroma_db/
+chroma_data/
+vector_db/
+database/
+
+.env
+*.log
